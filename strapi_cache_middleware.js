@@ -1,7 +1,7 @@
 module.exports = ({ env }) => ({
     settings: {
-      cache: {
-        enabled: true,
-      }
-    }
-  });
+        cache: {
+            enabled: true,
+        },
+    },
+});
